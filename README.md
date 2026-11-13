@@ -2,18 +2,18 @@
 
 Senior Full Stack Developer at **Coupa** and **Microsoft Certified Azure Solutions Architect Expert**, based in India.
 
-I have 11 years of experience designing and building SaaS products in supply chain planning, healthcare, insurance and pharmaceuticals. I work across the whole stack, from .NET services and SQL Server data models to React and Angular frontends, along with the CI/CD pipelines and cloud infrastructure behind them. I enjoy taking a feature from technical design all the way to production, and helping a team get there together.
+I have 11 years of experience designing and building SaaS products in supply chain planning, healthcare, insurance and pharmaceuticals. I work across the whole stack, from .NET services and SQL Server data models to React frontends (Angular in earlier roles), along with the CI/CD pipelines and cloud infrastructure behind them. I enjoy taking a feature from technical design all the way to production, and helping a team get there together.
 
 ### What I've worked on
 
-- **Supply chain planning (Coupa):** scenario management for a low-code app builder, a data platform migration onto a shared database design service, file uploads that trigger data workflows, and workflow automation with user-defined formulas
-- **Healthcare (TietoEVRY):** led a team of eight on SaaS products for government hospitals in Finland and Sweden, including an intelligent hospital scheduling system and a dental care product with clinical charting, billing and booking
-- **Insurance & pharma (Infosys):** web applications for Tower Insurance (New Zealand), including its payment terminal, and for Pfizer (USA)
+- **Supply chain planning (Coupa, React & .NET):** scenario management for a low-code app builder, a data platform migration onto a shared database design service, file uploads that trigger data workflows, and workflow automation with user-defined formulas
+- **Healthcare (TietoEVRY, Angular & .NET Core):** led a team of eight on SaaS products for government hospitals in Finland and Sweden, including an intelligent hospital scheduling system and a dental care product with clinical charting, billing and booking
+- **Insurance & pharma (Infosys, AngularJS & ASP.NET MVC):** web applications for Tower Insurance (New Zealand), including its payment terminal, and for Pfizer (USA)
 - **Cloud & delivery:** Azure infrastructure with Terraform, CI/CD with Azure DevOps and Jenkins, Docker and Kubernetes, and .NET 8 / .NET 10 upgrades across many services
 
 ### Tech I use most
 
-`C#` `.NET / ASP.NET Core` `React` `Angular` `TypeScript` `SQL Server` `Azure` `AWS` `Terraform` `Docker` `Kubernetes` `Azure DevOps` `Jenkins`
+`C#` `.NET / ASP.NET Core` `React` `TypeScript` `SQL Server` `Azure` `AWS` `Terraform` `Docker` `Kubernetes` `Azure DevOps` `Jenkins` `Angular`
 
 ### Certifications
 
